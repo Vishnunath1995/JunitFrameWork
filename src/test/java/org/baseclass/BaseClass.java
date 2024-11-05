@@ -108,4 +108,8 @@ public static void quitebws() {
 	driver.quit();
 
 }
+public static void closeBws() {
+	driver.close();
+
+}
 }
